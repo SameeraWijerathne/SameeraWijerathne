@@ -90,7 +90,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Mostly Used Languages
-![Mostly Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+![Mostly Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={SameeraWijerathne}&theme=blue-green)
 <!--
 **SameeraWijerathne/SameeraWijerathne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
