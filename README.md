@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I'm Sameera Wijerathna, a **graduate engineering student** with a passion for 👨‍💻 web development. I have honed my skills in both front-end and back-end web development. My goal is to create visually appealing, user-friendly websites that deliver exceptional experiences. What excites me most about web development is its ever-evolving nature. I am dedicated to staying up-to-date with the latest technologies and trends, constantly seeking opportunities to expand my knowledge and skill set. Whether it's mastering new frameworks or exploring innovative design patterns, I am committed to pushing the boundaries of what's possible in the digital realm. 
+🎓 I'm Sameera Wijerathne, a **graduate engineering student** with a passion for 👨‍💻 web development. I have honed my skills in both front-end and back-end web development. My goal is to create visually appealing, user-friendly websites that deliver exceptional experiences. What excites me most about web development is its ever-evolving nature. I am dedicated to staying up-to-date with the latest technologies and trends, constantly seeking opportunities to expand my knowledge and skill set. Whether it's mastering new frameworks or exploring innovative design patterns, I am committed to pushing the boundaries of what's possible in the digital realm. 
 
 ## 🛠️ Skills
 
